@@ -1,0 +1,77 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="VideoTimeline-master" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.force.push.enabled,data.remotes.in.project.0,data.local.branches.count.0,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,data.remote.branches.count.0,config.warn.about.crlf.enabled" collectionTime="1512455937026" />
+      <project id="LoginandSignUp" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled" collectionTime="1511961584121" />
+      <project id="Sapne" values="config.push.autoupdate.disabled,data.remote.branches.count.8+,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.remotes.in.project.1,config.force.push.enabled,data.local.branches.count.1,config.save.policy.STASH,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1512583867693" />
+      <project id="Sapne-master" values="data.local.branches.count.0,config.ssh.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,data.remotes.in.project.0,config.warn.about.crlf.enabled,data.remote.branches.count.0,config.cherry-pick.autocommit.disabled" collectionTime="1511962820311" />
+    </group>
+    <group name="vcs">
+      <project id="VideoTimeline-master" values="Git" collectionTime="1512455936917" />
+      <project id="Sapne-master" values="Git" collectionTime="1511962797397" />
+      <project id="Sapne" values="Git" collectionTime="1512583863402" />
+    </group>
+    <group name="frameworks">
+      <project id="VideoTimeline-master" values="android-gradle" collectionTime="1512455936917" />
+      <project id="LoginandSignUp" values="android,java-gradle,android-gradle" collectionTime="1511961583990" />
+      <project id="Sapne" values="java-gradle,android,android-gradle" collectionTime="1512583863429" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="LoginandSignUp" values="AndroidRunConfigurationType" collectionTime="1511961583991" />
+      <project id="Sapne" values="AndroidRunConfigurationType" collectionTime="1512583863679" />
+    </group>
+    <group name="module-language-level">
+      <project id="VideoTimeline-master" values="JDK_1_7" collectionTime="1512455937026" />
+      <project id="Sapne" values="JDK_1_7" collectionTime="1512583867693" />
+    </group>
+    <group name="images.ide.background">
+      <project id="VideoTimeline-master" values="editor 0,frame 0" collectionTime="1512455937026" />
+      <project id="LoginandSignUp" values="frame 0,editor 0" collectionTime="1511961584106" />
+      <project id="Sapne" values="frame 0,editor 0" collectionTime="1512583867569" />
+      <project id="Sapne-master" values="frame 0,editor 0" collectionTime="1511962797522" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="Sapne" values="data.commit.count.100+,data.git.root.count.1,data.users.count.10+,data.branches.count.10+" collectionTime="1512583867569" />
+    </group>
+    <group name="file-type">
+      <project id="VideoTimeline-master" values="ARCHIVE,XML,Groovy,JAVA,Images,Properties,ProGuard File,PLAIN_TEXT,IDEA_MODULE" collectionTime="1512455937026" />
+      <project id="LoginandSignUp" values="Groovy,CLASS,XML,Images,ARCHIVE,JAVA,IDEA_MODULE,Properties,UNKNOWN,ProGuard File,JSON Schema,PLAIN_TEXT" collectionTime="1511961584098" />
+      <project id="Sapne" values="IDEA_MODULE,UNKNOWN,Properties,JSON,XML,Native,Images,PLAIN_TEXT,ARCHIVE,JAVA,Groovy,APK,ProGuard File" collectionTime="1512583864897" />
+      <project id="Sapne-master" values="Properties,Images,ARCHIVE,XML,APK,JAVA,PLAIN_TEXT,JSON Schema,Groovy,ProGuard File,UNKNOWN" collectionTime="1511962797520" />
+    </group>
+    <group name="module type">
+      <project id="VideoTimeline-master" values="JAVA_MODULE" collectionTime="1512455936917" />
+      <project id="LoginandSignUp" values="JAVA_MODULE" collectionTime="1511961583990" />
+      <project id="Sapne" values="JAVA_MODULE" collectionTime="1512583863430" />
+      <project id="Sapne-master" values="JAVA_MODULE" collectionTime="1511962797398" />
+    </group>
+    <group name="language-level">
+      <project id="LoginandSignUp" values="JDK_1_7" collectionTime="1511961584120" />
+      <project id="Sapne" values="JDK_1_3" collectionTime="1512178349250" />
+      <project id="Sapne-master" values="JDK_1_8" collectionTime="1511962820309" />
+    </group>
+    <group name="vcs-options">
+      <project id="VideoTimeline-master" values="commit.before.check.code.cleanup.disabled,perform.rollback.in.background.disabled,commit.before.reformat.project.disabled,show.changes.preview.disabled,offer.move.failed.committed.do_nothing_silently,include.text.into.shelf.enabled,perform.edit.in.background.enabled,check.conflicts.in.background.disabled,commit.show.unversioned.enabled,commit.before.check.non.empty.comment.disabled,commit.before.check.todo.enabled,changelist.preselect.existing.disabled,changelist.make.new.active.disabled,perform.checkout.in.background.enabled,commit.before.check.code.smell.enabled,commit.use.right.margin.enabled,perform.commit.in.background.enabled,commit.clear.initial.comment.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.rearrange.disabled,commit.before.optimize.imports.disabled,perform.update.in.background.enabled,commit.before.check.files.up.to.date.disabled,offer.move.partially.committed.disabled,commit.before.reformat.file.disabled,perform.add_remove.in.background.enabled" collectionTime="1512455936917" />
+      <project id="Sapne" values="commit.use.right.margin.enabled,perform.update.in.background.enabled,perform.checkout.in.background.enabled,commit.before.check.code.cleanup.disabled,commit.before.check.todo.enabled,offer.remove.empty.changelist.show_confirmation,check.conflicts.in.background.disabled,commit.before.check.files.up.to.date.disabled,commit.before.rearrange.disabled,commit.show.unversioned.enabled,perform.edit.in.background.enabled,changelist.preselect.existing.disabled,commit.before.reformat.project.disabled,perform.rollback.in.background.disabled,show.changes.preview.disabled,commit.clear.initial.comment.disabled,include.text.into.shelf.enabled,perform.add_remove.in.background.enabled,changelist.make.new.active.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.reformat.file.disabled,perform.commit.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.check.code.smell.enabled,commit.before.optimize.imports.disabled,offer.move.partially.committed.disabled" collectionTime="1512583863429" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Android_Profiler].hidden" count="5" />
+      <entry feature="StripeButton[Android_Profiler].shown" count="4" />
+      <entry feature="StripeButton[Version_Control].hidden" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="48" />
+      <entry feature="ide.settings.Android_SDK" count="3" />
+      <entry feature="ide.settings.Notifications" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="1" />
+      <entry feature="ide.settings.Version_Control" count="2" />
+      <entry feature="idea.caches.invalidated" count="7" />
+      <entry feature="ideaapp.started" count="58" />
+      <entry feature="terminal.win" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="2" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "158723342730",
+    "firebase_url": "https://login-and-signup-ccff7.firebaseio.com",
+    "project_id": "login-and-signup-ccff7",
+    "storage_bucket": "login-and-signup-ccff7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158723342730:android:f12994f75404063f",
+        "android_client_info": {
+          "package_name": "com.sap.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158723342730-ppumanm14jijujt6cnc5qu0i19ukrgil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGiqDpia6SEVtqQkWkXsZy8lclXuJgmx0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
